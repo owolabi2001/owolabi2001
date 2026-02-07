@@ -5,7 +5,7 @@
 I'm a Backend Engineer with 4+ years of experience building scalable microservices and distributed systems. I specialize in creating high-performance fintech and agri-tech solutions using modern cloud-native technologies.
 
 📍 **Location:** Remote  
-📧 **Email:** owolabitemiolamide@gmail.com  
+📧 **Email:** owolabitemiolamide@gmail.com
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/temi-olamide)
@@ -127,11 +127,11 @@ Backend Engineer passionate about building **scalable microservices** and **dist
 
 <div align="center">
   
-![Temi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=owolabi2001&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=owolabi2001&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Temi's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owolabi2001&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owolabi2001&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=owolabi2001&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=owolabi2001&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
