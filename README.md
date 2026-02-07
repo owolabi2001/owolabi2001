@@ -119,6 +119,8 @@ Backend Engineer passionate about building **scalable microservices** and **dist
 ### AWS Certified Cloud Practitioner
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/e2a73aee-9d07-4d10-9cbe-c1d73bfe441e/public_url)
 
+**Issued:** December 17, 2025
+
 </div>
 
 ---
