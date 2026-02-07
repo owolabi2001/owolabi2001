@@ -9,6 +9,7 @@ I'm a Backend Engineer with 4+ years of experience building scalable microservic
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/temi-olamide)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/owolabitemi1)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owolabi2001)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@owolabitemi)
 
@@ -128,10 +129,6 @@ Backend Engineer passionate about building **scalable microservices** and **dist
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=owolabi2001&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Temi's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owolabi2001&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=owolabi2001&theme=radical&hide_border=true" alt="GitHub Streak" />
 
@@ -160,14 +157,6 @@ I write about backend engineering, cloud architecture, and distributed systems o
 - ⚡ Processed 300+ banking transactions with 99% uptime
 - 🏗️ Built systems serving 60K+ users across civic tech platforms
 - 🚀 Delivered 167 API endpoints in a single project
-
----
-
-## 📫 How to Reach Me
-
-- 📧 Email: owolabitemiolamide@gmail.com
-- 💼 LinkedIn: [temi-olamide](https://linkedin.com/in/temi-olamide)
-- 📝 Substack: [@owolabitemi](https://substack.com/@owolabitemi)
 
 ---
 
